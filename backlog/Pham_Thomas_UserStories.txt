@@ -1,0 +1,75 @@
+- As a user, I want to view the rating of an attraction so that I can prioritise which places to visit
+    - Given I want to evaluate a listed attraction based on the experiences of other visitors
+    - When I click on the attraction
+    - Then I can see the collective rating given to that attraction by people who have visited
+    
+- As a user, I want to be able to see reviews from other tourists who have visited a particular place, so that I can make an informed decision about where to go
+    - Given there is a listed attraction that people have visited
+    - When I click on the ‘reviews’ section of the attraction
+    - Then I can read about the experiences of those who have visited that attraction
+    
+- As a user, I want to give a rating to a place I’ve visited so that I can share my experience with others
+    - Given I want to rate an attraction I have recently visited
+    - When I click on the ‘reviews’ section of the attraction
+    - Then I can provide a rating from 1 to 5 (5 being the best)
+    
+- As a user, I want to leave a review of the place I’ve visited so that I can pass on feedback to business owners
+    - Given I want to share my experience about a destination I’ve recently visited
+    - When I click on the ‘review’ section of the attraction
+    - Then I can write about my experience for other users to see
+    
+- As a user, I want to share photos I have taken of an attraction I have visited
+    - Given I have photos of a listed attraction
+    - When I click on the ‘photos’ section of the attraction
+    - Then I can upload these photos for other users to view
+    
+- As a business owner, I want to view user reviews given to my establishment so that I can make improvements to my business
+    - Given I have listed my establishment as a business partner
+    - When I click on my establishment
+    
+    - Then I can read through the reviews given by users who have visited
+- As a business owner, I want to respond to reviews given to my establishment so that I can address any concerns that have been raised
+    - Given visitors have posted reviews about my establishment
+    - When I click on a review posted to my establishment
+    - Then I can respond directly to that comment for all users to see
+
+
+- As a user, I want to view information about a listed tourist destination, so that I can plan a unique and sustainable travel experience
+    - Given there is a listed attraction that I am interested in learning about
+    - When I click on the ‘information’ section of that attraction
+    - Then I can read a brief overview of that attraction’s history, significance and its defining attributes
+    
+- As a user, I want to view photos of listed tourist attractions, so that I can plan a trip according to my interests
+    - Given that photos of an attraction have been uploaded by visitors or business partners
+    - When I click on the ‘photos’ section of that attraction
+    - Then I can see photos of that attraction uploaded by its partnered business owner as well as those shared by visitors
+    
+- As a user, I want to be able to see the opening hours for each tourist place, so that I can plan my visits accordingly
+    - Given there is a listed attraction that is only open during certain hours
+    - When I click on that attraction
+    - Then I can see a timetable of when that attraction would be open to visitors
+- As a user, I want to be able to see the admission fees for each tourist place, so that I can budget my trip in advance
+    - Given the listed attraction requires some form of admission fee
+    - Which I click on the ‘prices’ section of that attraction
+    - Then I can see a list of associated costs uploaded by the business owner
+    
+- As a user with mobility restrictions, I want to be able to see the accessibility options of a tourist place, so that I can avoid places that may be difficult to navigate
+    - Given I require certain accessibility options when travelling
+    - When I click on an attraction
+    - Then I can see a list of which accessibilities options are available on site
+    
+- As a user, I want to be redirected to booking websites for certain tourist places from the app, so that I can organise my trip more efficiently
+    - Given the attraction requires some form of booking or payment for admission
+    - When I click on the ‘prices’ section of that attraction
+    - Then I have to option to be redirected to relevant booking websites
+
+
+- As a budget-conscious user, I want to discover less crowded places to visit, so that I can save on expenses associated with visiting popular tourist destinations
+    - Given I am scoping out a place to visit in Queensland
+    - When I locate an area containing listed attractions on the map page
+    - Then there are indicators on the map which illustrate the relative busyness of that area
+    
+- As a user, I want to receive real-time updates on the crowdedness of popular attractions, so that I can adjust my itinerary and avoid peak times
+    - Given I want to visit a popular listed attraction
+    - When I click on that attraction
+    - Then I can see how busy that attraction currently is, relative to how busy it usually is as well as in comparison to other times

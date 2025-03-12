@@ -1,0 +1,291 @@
+[
+  {
+    "type": "Beach",
+    "name": "Whitehaven Beach",
+    "xCoordinate": -20.2833,
+    "yCoordinate": 148.7167,
+    "rating": 4.9,
+    "pointVal": 1,
+    "swimmingAreas": 1
+  },
+  {
+    "type": "Beach",
+    "name": "Surfers Paradise Beach",
+    "xCoordinate": -28.0027,
+    "yCoordinate": 153.4319,
+    "rating": 4.7,
+    "pointVal": 3,
+    "swimmingAreas": 1
+  },
+  {
+    "type": "Beach",
+    "name": "Noosa Main Beach",
+    "xCoordinate": -26.3896,
+    "yCoordinate": 153.0912,
+    "rating": 4.6,
+    "pointVal": 5,
+    "swimmingAreas": 1
+  },
+  {
+    "type": "Beach",
+    "name": "Burleigh Heads Beach",
+    "xCoordinate": -28.0975,
+    "yCoordinate": 153.4419,
+    "rating": 4.5,
+    "pointVal": 8,
+    "swimmingAreas": 1
+  },
+  {
+    "type": "Beach",
+    "name": "Palm Cove Beach",
+    "xCoordinate": -16.7482,
+    "yCoordinate": 145.6711,
+    "rating": 4.4,
+    "pointVal": 12,
+    "swimmingAreas": 1
+  },
+  {
+    "type": "Beach",
+    "name": "Cairns Esplanade Lagoon",
+    "xCoordinate": -16.9205,
+    "yCoordinate": 145.7718,
+    "rating": 4.3,
+    "pointVal": 16,
+    "swimmingAreas": 2
+  },
+  {
+    "type": "Beach",
+    "name": "Mooloolaba Beach",
+    "xCoordinate": -26.6821,
+    "yCoordinate": 153.1163,
+    "rating": 4.1,
+    "pointVal": 27,
+    "swimmingAreas": 1
+  },
+  {
+    "type": "Beach",
+    "name": "Four Mile Beach",
+    "xCoordinate": -16.4822,
+    "yCoordinate": 145.4644,
+    "rating": 4.0,
+    "pointVal": 34,
+    "swimmingAreas": 1
+  },
+  {
+    "type": "Beach",
+    "name": "The Strand",
+    "xCoordinate": -19.2573,
+    "yCoordinate": 146.8183,
+    "rating": 3.9,
+    "pointVal": 42,
+    "swimmingAreas": 2
+  },
+  {
+    "type": "Beach",
+    "name": "Main Beach",
+    "xCoordinate": -28.0646,
+    "yCoordinate": 153.4332,
+    "rating": 3.8,
+    "pointVal": 50,
+    "swimmingAreas": 1
+  },
+  {
+    "type": "RestaurantCafe",
+    "name": "Hellenika",
+    "xCoordinate": -28.040416,
+    "yCoordinate": 153.432526,
+    "rating": 4.6,
+    "pointVal": 33,
+    "capacity": 50,
+    "specialty": "GREEK"
+  },
+  {
+    "type": "RestaurantCafe",
+    "name": "Blackstar Coffee",
+    "xCoordinate": -27.468583,
+    "yCoordinate": 153.027637,
+    "rating": 4.7,
+    "pointVal": 21,
+    "capacity": 20,
+    "specialty": "CAFE"
+  },
+  {
+    "type": "RestaurantCafe",
+    "name": "e'cco Bistro",
+    "xCoordinate": -27.463680,
+    "yCoordinate": 153.030098,
+    "rating": 4.5,
+    "pointVal": 47,
+    "capacity": 50,
+    "specialty": "CONTEMPORARY"
+  },
+  {
+    "type": "RestaurantCafe",
+    "name": "Gerard's Bistro",
+    "xCoordinate": -27.458192,
+    "yCoordinate": 153.041741,
+    "rating": 4.7,
+    "pointVal": 29,
+    "capacity": "50",
+    "specialty": "MIDDLE_EASTERN"
+  },
+  {
+    "type": "RestaurantCafe",
+    "name": "The Tiller Coffee",
+    "xCoordinate": -27.458984,
+    "yCoordinate": 153.034959,
+    "rating": 4.6,
+    "pointVal": 17,
+    "capacity": 10,
+    "specialty": "CAFE"
+  },
+  {
+    "type": "RestaurantCafe",
+    "name": "The Fish House",
+    "xCoordinate": -28.034603,
+    "yCoordinate": 153.433350,
+    "rating": 4.7,
+    "pointVal": 41,
+    "capacity": 50,
+    "specialty": "SEAFOOD"
+  },
+  {
+    "type": "RestaurantCafe",
+    "name": "Flour and Chocolate",
+    "xCoordinate": -27.507085,
+    "yCoordinate": 153.051079,
+    "rating": 4.7,
+    "pointVal": 24,
+    "capacity": 20,
+    "specialty": "BAKERY"
+  },
+  {
+    "type": "RestaurantCafe",
+    "name": "Urbane",
+    "xCoordinate": -27.466770,
+    "yCoordinate": 153.027564,
+    "rating": 4.7,
+    "pointVal": 37,
+    "capacity": 50,
+    "specialty": "MODERN_AUSTRALIAN"
+  },
+  {
+    "type": "Landmark",
+    "name": "Great Barrier Reef",
+    "xCoordinate": -18.2871,
+    "yCoordinate": 147.6992,
+    "rating": 4.8,
+    "pointVal": 93,
+    "year": 1975,
+    "description": "World's largest coral reef system, containing an abundance of marine life and over 3,000 individual reef systems and coral cays."
+  },
+  {
+    "type": "Landmark",
+    "name": "Uluru-Kata Tjuta National Park",
+    "xCoordinate": -25.3444,
+    "yCoordinate": 131.0369,
+    "rating": 4.7,
+    "pointVal": 89,
+    "year": 1958,
+    "description": "A UNESCO World Heritage Site famous for its sandstone rock formations, including Uluru (Ayers Rock) and Kata Tjuta (the Olgas)."
+  },
+  {
+    "type": "Landmark",
+    "name": "Daintree Rainforest",
+    "xCoordinate": -16.2550,
+    "yCoordinate": 145.3170,
+    "rating": 4.6,
+    "pointVal": 81,
+    "year": 1988,
+    "description": "The oldest rainforest in the world, containing an incredible biodiversity of plants and animals."
+  },
+  {
+    "type": "Landmark",
+    "name": "Whitsunday Islands",
+    "xCoordinate": -20.2828,
+    "yCoordinate": 148.7164,
+    "rating": 4.7,
+    "pointVal": 76,
+    "year": 1770,
+    "description": "A group of 74 islands in the heart of the Great Barrier Reef, known for their crystal clear waters and white sand beaches."
+  },
+  {
+    "type": "Landmark",
+    "name": "Gold Coast",
+    "xCoordinate": -28.0167,
+    "yCoordinate": 153.4000,
+    "rating": 4.5,
+    "pointVal": 71,
+    "year": 1958,
+    "description": "A coastal city known for its long sandy beaches, surfing spots, and vibrant nightlife."
+  },
+  {
+    "type": "Landmark",
+    "name": "Brisbane Botanic Gardens",
+    "xCoordinate": -27.4694,
+    "yCoordinate": 153.0233,
+    "rating": 4.6,
+    "pointVal": 68,
+    "year": 1855,
+    "description": "A beautiful garden in the heart of Brisbane, featuring a wide range of plant species and a stunning Japanese garden."
+  },
+  {
+    "type": "Landmark",
+    "name": "The Story Bridge",
+    "xCoordinate": -27.4654,
+    "yCoordinate": 153.0344,
+    "rating": 4.7,
+    "pointVal": 65,
+    "year": 1940,
+    "description": "An iconic bridge over the Brisbane River, offering spectacular views of the city and surrounding areas."
+  },
+  {
+    "type": "Landmark",
+    "name": "QUT Gardens Point Campus",
+    "xCoordinate": -27.477251216558134,
+    "yCoordinate": 153.02818746747138,
+    "rating": 4.9,
+    "pointVal": 50,
+    "year": 1989,
+    "description": "The university for the real world."
+  },
+  {
+    "type": "Landmark",
+    "name": "King George Square",
+    "xCoordinate": -27.468406344781023,
+    "yCoordinate": 153.023934730817,
+    "rating": 4.3,
+    "pointVal": 17,
+    "year": 1891,
+    "description": "Theres nothing here. don't visit :)"
+  },
+  {
+    "type" : "Landmark",
+    "name": "Red Records Tiny Door by Mace Robertson",
+    "xCoordinate": -27.47375143834974,
+    "yCoordinate": 153.01780939520907,
+    "rating": 5.0,
+    "pointVal": 75,
+    "year": 2022,
+    "description": "No one usually cares about this. But if you see this door accidentally your life will be filled with humor."
+  },
+  {
+    "type": "Beach",
+    "name": "Coolongatta Beach",
+    "xCoordinate": -28.166261584779914,
+    "yCoordinate": 153.54041103871356,
+    "rating": 4.8,
+    "pointVal": 32,
+    "swimmingAreas" : 1
+  },
+  {
+    "type": "RestaurantCafe",
+    "name": "John Mills Himself Cafe and Bar",
+    "xCoordinate": -27.471453328598884,
+    "yCoordinate": 153.0254219539799,
+    "rating": 4.8,
+    "pointVal": 89,
+    "capacity" : 15,
+    "specialty" : "CAFE"
+  }
+]

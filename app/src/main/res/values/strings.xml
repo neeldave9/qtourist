@@ -1,0 +1,35 @@
+<resources>
+
+<!--    Introduction-->
+    <string name="app_name">QTourist</string>
+    <string name="welcome_to_my_qtourist">Welcome to my QTourist!</string>
+
+<!--    Login and Register Activity-->
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="log_in">Log in</string>
+    <string name="register_here">Register</string>
+    <string name="register">Register</string>
+    <string name="already_registered_signin">Already registered? Sign in</string>
+    <string name="forgot_password_reset">Forgot password? Reset here</string>
+
+<!--    Greetings-->
+    <string name="button">Button</string>
+    <string name="welcome">Welcome </string>
+
+<!--    Navigation Drawer-->
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_registration">RegisterActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+<!--    Messages-->
+    <string name="message_registration_successful">Registration Successful!</string>
+
+<!--    Error Messages-->
+    <string name="error_message_unknown">Unknown Error!</string>
+    <string name="error_message_user_not_found">User not found</string>
+    <string name="error_message_wrong_password">Wrong password</string>
+    <string name="error_message_email_exists">Email already exists</string>
+
+</resources>

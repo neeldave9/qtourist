@@ -1,0 +1,83 @@
+	NEEL DAVE | USER STORIES AND ACCEPTANCE CRITERIA | WEEK 5
+
+	1. As a standard user, I want to be able to save my favorite sustainable tourist destinations to a list so that I can easily access them later and plan my trips efficiently.
+		a. Acceptance Criteria:
+			i. The user can save a destination by clicking on a "Save to List" button. 
+			ii. The user can access this list when signed in. After logging out and resigning back in, they can still access their list. 
+	2. As a standard user, once I have added a tourist destination to my favorite list, I would like to be able to receive any promotion alerts such as activities or restaurant deals. 
+		a. Acceptance Criteria: 
+			i. Notification page/Inbox page which shows a list of promotions from the location of the sustainable tourist destination. 
+			ii. The user receives push notifications or emails about promotions for saved destinations.
+	3. As a standard user, once I have added a tourist destination to my favorite list, I would like to be able to view bookings for sustainable accommodations or restaurants nearby. 
+		a. Acceptance Criteria: 
+			i. Upon clicking on an item in the list, integration between booking platforms such as booking.com.
+			ii. Maps integration to find sustainable restaurants around a location. 
+	4. As a standard user, I would also like to be able to add sustainable restaurants and activities to the list as I want to make more informed decisions with what type of food I eat. 
+		a. Acceptance Criteria: 
+			i. Sustainable restaurants can be added to a separate list for dining. 
+			ii. Sustainable activities can be added to a separate list for activities. 
+	5. As a standard user, I want to be able to organize my saved sustainable tourist destinations into different lists based on location and travel dates, so that I can plan my trips more efficiently.
+		a. Acceptance Criteria:
+			i. Lists/Filters for different locations
+			ii. Lists/Filters for different dates
+	6. As a standard user, after I have added a tourist destination to a list, I would like to be able to make changes to each destination in my list so that I can plan it around my schedule. 
+		a. Acceptance Criteria: 
+			i. Choose travel dates
+			ii. Add Notes button for later reference
+	7. As a standard user, I would like to be able to remove a tourist destination from a list as I may no longer want to go that specific destination anymore.
+		a. Acceptance Criteria:
+			i. "Remove from List" button
+			ii. Undo button to prevent changes made by error. 
+	8. As a standard user, after  I have added a sustainable restaurant/accommodation to a list, I would like to be able to contact the business for additional information regarding their eco-friendly practices. 
+		a. Acceptance Criteria:
+			i. Fields for Phone or Email
+			ii. Chat feature between customers and businesses. 
+	9. As a standard user, I want to be able to compare different sustainable tourist destinations based on their sustainability practices, ratings, and prices so that I can make informed decisions about where to travel.
+		a. Acceptance Criteria:
+			i. Display in a table-like GUI to compare different destinations. 
+			ii. Metrics should include ratings, prices and sustainability scores
+	10. As a business owner, I want to be able to see how many users have saved my sustainable tourist destination to their favorite list, so that I can track user interest and adjust my marketing strategy accordingly.
+		a. Acceptance Criteria:
+			i. Display a integer value which shows how many users have saved the location.
+			ii. Track user interest with how many people add to the list and actually visit with integration of other app features. 
+	11. As a business owner, I want to be able to see how my sustainable tourist destination compares to other similar destinations, so that I can identify areas for improvement and stay competitive in the market.
+		a. Acceptance Criteria:
+			i. Display integer values for how many people visit each sustainable tourist destination. 
+			ii. Display average ratings for tourist locations in the area and compared to the business owners.
+	12. As a user, I want to receive personalized recommendations for sustainable tourist destinations based on my interests, preferences, and past travel experiences, so that I can have a unique and customized travel experience.
+		a. Acceptance Criteria:
+			i. Recommendations in a form of list or just one at a time with Next/Previous
+			ii. Recommendations based on location and preferences for activities. 
+	13. As a user, I want to be able to like and dislike my recommendations so that I can get more relevant tourist destinations that suit me. 
+		a. Acceptance Criteria:
+			i. Like and Dislike button for each tourist destination. 
+			ii. Any disliked tourist destination is added to a ban list and any recommendations near that location are removed from the recommendations. 
+	14. As a standard user, after adding a destination to a list, I would like suggestions of accommodations and restaurants nearby of the tourist destination.
+		a. Acceptance Criteria:
+			i. Integration of suggestions with list feature
+			ii. For each location,  a set of sustainable accommodations are recommended. 
+			iii. For each location, a set of sustainable  restaurants are recommended. 
+	15. As a standard user, I want to be able to choose which locations I can get recommendations from because I dislike some locations. 
+		a. Acceptance Criteria:
+			i. Filter option for locations of tourist destination places for recommendation
+			ii. Filter option for which type of tourist destination as a recommendation. 
+	16. As a standard user, I want to be able to add the recommendations to my favorites list so I can visit them later. 
+		a. Acceptance Criteria:
+			i. Add button which adds to the favorites list
+			ii. Integration with the favorites list feature 
+	17. As a business owner, I want to categorize my sustainable business for different types of customers , so that I can provide them with a unique experience and increase customer satisfaction.
+		a. Acceptance Criteria: 
+			i. Option for different age groups when adding a business.
+			ii. Recommendation list takes into consideration the demographics recommended for each location. 
+	18. As a business owner, once a customer has added my sustainable business to a list, I would like to be notified, so that I can contact them with any deals or promotions. 
+		a. Acceptance Criteria:
+			i. Notification using email/inbox page for business user accounts. 
+			ii. Chat feature which allows businesses to contact customers. 
+	19. As a standard user, I want the application to have a help or FAQ that provides answers to common questions or issues that I may encounter while using the app or navigating to a tourist place.
+		a. Acceptance Criteria: 
+			i. List of Frequently asked questions
+			ii. Basic tutorial for application; either a video or guided. 
+	20. As a standard user with disabilities, I want the application to have clear and simple language, visual aids, and easy-to-use navigation so that I can easily find and understand the information.
+		a. Acceptance Criteria: 
+			i. Color blind option in the application
+			ii. Text-to-speech option in the application

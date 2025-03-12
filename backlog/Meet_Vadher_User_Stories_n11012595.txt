@@ -1,0 +1,140 @@
+Requirements: User Login and User Registration.
+
+User stories:
+
+1. As a user, I want to be able to register for a new account, so that I can access the app's features.
+
+    Acceptance Criteria:
+        •The registration form should include required fields, such as email address and password.
+        •The app should display an error message if any required fields are left blank.
+        •Upon successful registration, the user should be redirected to the login screen.
+
+2. As a user, I want to be able to login with my email and password, so that I can access the app's features.
+    
+    Acceptance Criteria:
+        •The login screen should include fields for email address and password.
+        •The app should display an error message if the user enters an incorrect email or password.
+        •Upon successful login, the user should be redirected to the app's home screen.
+
+3. As a user, I want to be able to reset my password if I forget it, so that I can regain access to my account.
+
+    Acceptance Criteria:
+        •The app should include a "forgot password" link on the login screen.
+        •Clicking on the link should take the user to a password reset screen.
+        •Upon successful password reset, the user should be redirected to the login screen.
+
+4. As a user, I want to be able to login with my Google or Facebook account, so that I don't have to remember a separate email and password.
+
+    Acceptance Criteria:
+        •The login screen should include options to login with Google or Facebook.
+        •Clicking on one of the options should redirect the user to the respective login page.
+        •Upon successful login, the user should be redirected to the app's home screen.
+
+5. As a user, I want the app to remember my login credentials, so that I don't have to enter them every time I open the app.
+
+    Acceptance Criteria:
+        •The app should include a "remember me" checkbox on the login screen.
+        •If the user checks the box, their login credentials should be saved and automatically entered the next time they open the app.
+
+6. As a user, I want to be able to logout of my account, so that someone else can't access my information.
+
+    Acceptance Criteria:
+        •The app should include a "logout" option in the user's profile settings.
+        •Clicking on the option should log the user out and redirect them to the login screen.
+
+7. As a user, I want the app to notify me if someone logs into my account from a new device, so that I can take action if necessary.
+
+    Acceptance Criteria:
+        •The app should send an email to the user if someone logs into their account from a new device.
+        •The email should include information about the device, such as the device type and IP address.
+
+8. As a user, I want the app to enforce password strength requirements, so that my account is secure.
+
+    Acceptance Criteria:
+        •The app should require passwords to be a minimum length, contain at least one uppercase letter, and at least one number.
+        •The app should display an error message if the user's password doesn't meet the requirements.
+
+9. As a user, I want the app to prevent brute-force attacks on my account, so that someone else can't guess my password.
+
+    Acceptance Criteria:
+        •The app should prevent users from attempting to login more than a certain number of times within a specified time period.
+        •The app should display an error message if the user exceeds the allowed number of login attempts.
+
+10. As a user, I want to be able to edit my account information, such as my name or email address.
+
+    Acceptance Criteria:
+        •The app should provide an option for the user to edit their account information, such as their name or email address, in their profile settings.
+        •The app should validate any changes made to the user's account information and display an error message if there are any invalid fields or missing information.
+        •Any changes made to the user's account information should be saved and reflected in their profile settings immediately after the user submits the modifications.
+        •The app should display a confirmation message after the user successfully saves their edited account information, indicating that the changes have been successfully saved.
+
+11. As a user, I want the app to verify my email address during registration, so that I can ensure the security of my account.
+
+    Acceptance Criteria:
+        •The app should send a verification email to the user's email address after registration.
+        •The email should include a link that the user must click to verify their email address.
+        •The app should display an error message if the user doesn't verify their email address within a specified time period.
+
+12. As a user, I want to be able to change my password, so that I can ensure the security of my account.
+
+    Acceptance Criteria:
+        •The app should include an option in the user's profile settings to change their password.
+        •The user should be required to enter their current password and a new password.
+        •The app should display an error message if the new password doesn't meet the password strength requirements.
+
+13. As a user, I want to be able to delete my account, so that my personal information is no longer stored in the app's system.
+
+    Acceptance Criteria:
+        •The app should include an option in the user's profile settings to delete their account.
+        •Clicking on the option should prompt the user to confirm the deletion.
+        •The app should permanently delete the user's account and associated data upon confirmation.
+
+14. As a user, I want to be able to view and manage my login sessions, so that I can see where and when I've accessed my account.
+
+    Acceptance Criteria:
+        •The app should display a list of the user's previous login sessions, including the device type and location.
+        •The app should allow the user to revoke any previous sessions that they don't recognize or want to end.
+
+15. As a user, I want the app to provide a secure and encrypted connection when logging in or registering, so that my personal information is protected.
+
+    Acceptance Criteria:
+        •The app should use HTTPS to encrypt all communication between the user's device and the app's server.
+        •The app should use industry-standard encryption algorithms to protect the user's data during transmission.
+
+16. As a user, I want to receive an error message if I enter an incorrect username or password during login, so that I can correct my mistakes.
+
+    Acceptance Criteria:
+        •The app should display an error message if the user enters an incorrect username or password during login.
+        •The error message should be specific and indicate which field is incorrect.
+        •The app should not allow the user to log in until the correct credentials are entered.
+
+17. As a user, I want to receive a confirmation message when I successfully log in or register, so that I can be sure that my action was successful.
+
+    Acceptance Criteria:
+        •The app should display a confirmation message after the user successfully logs in or registers.
+        •The confirmation message should be clear and indicate that the action was successful.
+        •The app should redirect the user to the appropriate page or screen after the confirmation message is displayed.
+
+18. As a user, I want to be able to link and unlink my account with third-party services, such as Google or Facebook, so that I can easily access and manage my account across different platforms.
+    
+    Acceptance Criteria:
+        •The app should provide an option for the user to link or unlink their account with third-party services in their account settings.
+        •Any changes made to the user's linked accounts should be saved and reflected in their account settings immediately after the user submits the modifications.
+        •The app should display a confirmation message after the user successfully links or unlinks their account with a third-party service, indicating that the changes have been successfully saved.
+
+19. As a user, I want to be able to use biometric authentication, such as fingerprint or face recognition, to log in to my account, so that I can easily access my account without entering a password.
+    
+    Acceptance Criteria:
+        •The app should provide an option for the user to enable biometric authentication in their account settings or login screen.
+        •The user should be able to successfully register their biometric information, such as fingerprint or face recognition, on their device.
+        •The app should use the registered biometric information to authenticate the user and allow them to log in without entering a password.
+        •The app should provide an option for the user to switch back to using a password instead of biometric authentication, in case they want to disable this feature.
+        •The app should provide clear instructions and error messages if there are any issues with registering or using biometric authentication.
+
+20. As a user, I want to be able to view my login and activity history, so that I can keep track of my account activity and identify any unauthorized access or suspicious behavior.
+    
+    Acceptance Criteria:
+        •The app should provide an option for the user to view their login and activity history in their account settings or activity log screen.
+        •The user should be able to see a detailed list of their login and activity records, including the date, time, location, and type of activity.
+        •The app should highlight any unusual or suspicious activity, such as logins from unrecognized devices or locations, and provide an option for the user to report any suspicious activity to the app's support team.
+        •The app should not display any sensitive information, such as passwords or personal identification numbers (PINs), in the login and activity history.

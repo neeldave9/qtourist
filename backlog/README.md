@@ -1,0 +1,1 @@
+This folder contains User stories from each team member.
