@@ -1,11 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/sp81oIKp)
-# Android Application
+# QTourist
 
-This is a sample application that demonstrates how to build an Android application. This application has a single screen that allows you to sign up for an account, log in, and view a list of users.
-
-It is not required of you to use this application as a starting point for your project. You may choose to start from scratch, or use another sample application as a starting point. This application is provided as a reference for you to use if you find it helpful.
-
-To create an Android project in IntelliJ IDEA (Ultimate), follow the instructions in the [Create your first Android application](https://www.jetbrains.com/help/idea/create-your-first-android-application.html) tutorial.
+Sustainable Tourist Destination Android Applications
 
 ## Dependencies
 
@@ -26,14 +21,6 @@ This project requires the following software:
   - Download: https://developer.android.com/studio/run/emulator
 
 *While IntelliJ IDEA Community is sufficient for this project, we recommend using IntelliJ IDEA Ultimate. IntelliJ IDEA Ultimate has additional features that may be useful for your project, especially the ability to add SQLite support.*
-
-## Getting Started
-
-To get started, clone this repository and open the project in IntelliJ IDEA Ultimate. There are a few things you need to do before you can start coding.
-
-<!-- Gradle will download the required dependencies defined in the `build.gradle` file.
-
-You may need to `Reload All Gradle Projects` in IntelliJ IDEA if the project does not build successfully. This can be done by searching for `Reload All Gradle Projects` in the `Search Everywhere` dialog (Ctrl + Shift + A). -->
 
 ### 1. Setting up the Gradle JVM
 
@@ -75,19 +62,3 @@ Additionally, please read the [Android Developer Guides - Fundamentals](https://
 In this project, the Java code is located in the `app/src/main/java` directory. The XML code is located in the `app/src/main/res` directory (specifically, the `layout` directory contains the XML code I created for the UI). The `AndroidManifest.xml` file is located in the `app/src/main` directory.
 
 Tests are located in the `app/src/androidTest/java` directory. The `AndroidManifest.xml` file for tests is located in the `app/src/androidTest` directory.
-
-## Recommended Tutorials
-
-Please note that this is not an exhaustive list of tutorials. These are just some tutorials that I found helpful. You may find other tutorials more useful to you, depending on your learning style and your project requirements.
-
-- Videos:
-  - [(LinkedIn Learning) Android Development - by Todd Perkins](https://www.linkedin.com/learning/learning-java-applications-14700256/creating-an-android-project-in-android-studio) - This is a collection of short videos to get you started with Android Development in Java.
-  - [(YouTube) Android Development for Beginners - by freeCodeCamp](https://youtu.be/fis26HvvDII) - This is a long video that covers the basics of Android Development in Java. You may skip to 5:39:40 if you are already familiar with Java.
-
-- Articles / Guides:
-  - [Build your first Android App](https://developer.android.com/training/basics/firstapp) - Official Android guide to building your first Android app.
-  - [Android Developer Guides](https://developer.android.com/guide) - Official Android developer guides.
-  - [Android Tutorial (JavaPoint)](https://www.javatpoint.com/android-tutorial) - A collection of tutorials to get you started with Android Development in Java. Please feel free to skip to the section that applies to your project.
-
-
-.
